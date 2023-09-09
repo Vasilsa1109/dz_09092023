@@ -1,0 +1,11 @@
+.one .element{
+    background: white;
+}
+
+.one .element_short .element_left{
+    background: rgb(131, 47, 47);
+}
+
+.one .element_short .element_right{
+    background: rgb(131, 47, 47);
+}
